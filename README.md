@@ -20,3 +20,7 @@ Various project statistics are available on
 [GitHub](https://github.com/wilkinson/hpath/graphs) and
 [Ohloh](https://www.ohloh.net/p/hpath-report-generator/), too.
 
+NOTE: This repository is no longer updated because the project has been renamed
+[Formalin](https://github.com/wilkinson/formalin). This repository will remain
+here in perpetuity as support for our published abstract.
+
