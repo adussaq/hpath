@@ -1,5 +1,4 @@
-HPath
-=====
+# HPath [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wilkinson/hpath/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 This tool is a browser-based, user-extensible report generator for clinical
 environments, as outlined in our recently published [abstract](http://www.jpathinformatics.org/text.asp?2012/3/1/37/102183). The abstract can also be viewed
